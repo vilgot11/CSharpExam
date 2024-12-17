@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\C#\Task 5\bin\Debug\Task 5.exe.config
+C:\Users\admin\Desktop\C#\Task 5\bin\Debug\Task 5.exe
+C:\Users\admin\Desktop\C#\Task 5\bin\Debug\Task 5.pdb
+C:\Users\admin\Desktop\C#\Task 5\obj\Debug\Task 5.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\Task 5\obj\Debug\Task 5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\Task 5\obj\Debug\Task 5.exe
+C:\Users\admin\Desktop\C#\Task 5\obj\Debug\Task 5.pdb
+C:\Users\admin\Desktop\New folder\Task 5\bin\Debug\Task 5.exe.config
+C:\Users\admin\Desktop\New folder\Task 5\bin\Debug\Task 5.exe
+C:\Users\admin\Desktop\New folder\Task 5\bin\Debug\Task 5.pdb
+C:\Users\admin\Desktop\New folder\Task 5\obj\Debug\Task 5.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\New folder\Task 5\obj\Debug\Task 5.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\Task 5\obj\Debug\Task 5.exe
+C:\Users\admin\Desktop\New folder\Task 5\obj\Debug\Task 5.pdb

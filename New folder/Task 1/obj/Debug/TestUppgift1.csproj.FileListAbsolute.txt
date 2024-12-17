@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\C#\TestUppgift1\bin\Debug\TestUppgift1.exe.config
+C:\Users\admin\Desktop\C#\TestUppgift1\bin\Debug\TestUppgift1.exe
+C:\Users\admin\Desktop\C#\TestUppgift1\bin\Debug\TestUppgift1.pdb
+C:\Users\admin\Desktop\C#\TestUppgift1\obj\Debug\TestUppgift1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#\TestUppgift1\obj\Debug\TestUppgift1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\TestUppgift1\obj\Debug\TestUppgift1.exe
+C:\Users\admin\Desktop\C#\TestUppgift1\obj\Debug\TestUppgift1.pdb
+C:\Users\admin\Desktop\New folder\Task 1\bin\Debug\TestUppgift1.exe.config
+C:\Users\admin\Desktop\New folder\Task 1\bin\Debug\TestUppgift1.exe
+C:\Users\admin\Desktop\New folder\Task 1\bin\Debug\TestUppgift1.pdb
+C:\Users\admin\Desktop\New folder\Task 1\obj\Debug\TestUppgift1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\New folder\Task 1\obj\Debug\TestUppgift1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\Task 1\obj\Debug\TestUppgift1.exe
+C:\Users\admin\Desktop\New folder\Task 1\obj\Debug\TestUppgift1.pdb
